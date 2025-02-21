@@ -39,6 +39,13 @@ GitHub Desktop: Uma aplicação que facilita o uso do Git e GitHub, permitindo i
 Pull Request (PR): Solicitação para revisar e integrar as alterações feitas em uma branch para outra.
 Fork: Copiar um repositório de outro usuário para o seu próprio GitHub, permitindo fazer alterações e, posteriormente, enviar essas alterações para o repositório original.
 
+Criar um repositório no GitHub
+
+Acesse GitHub e faça login ou crie uma conta.
+No canto superior direito, clique em "New repository".
+Preencha as informações do repositório, como nome, descrição e escolha se será público ou privado.
+Clique em "Create repository".
+
 
 
 
